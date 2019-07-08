@@ -1,0 +1,9 @@
+
+nsquid:S20779"RUse a variable binding mechanism to construct this query instead of concatenation.(æÁªûÿÿÿÿ
+csquid:S2095="GUse try-with-resources or close this "ResultSet" in a "finally" clause.(şÍ“úÿÿÿÿ
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+csquid:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ
+isquid:S2077"RUse a variable binding mechanism to construct this query instead of concatenation.(Œ²ã“
+csquid:S20959"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(æÁªûÿÿÿÿ
+^squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œ²ã“
+csquid:S2095K"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(—éê·ÿÿÿÿÿ
